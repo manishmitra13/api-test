@@ -1,0 +1,19 @@
+{
+  "name": "api-test",
+  "version": "1.0.0",
+  "description": "This is a project for API-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manishmitra13/api-test.git"
+  },
+  "author": "Monalisa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manishmitra13/api-test/issues"
+  },
+  "homepage": "https://github.com/manishmitra13/api-test#readme"
+}
