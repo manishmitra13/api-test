@@ -4,7 +4,7 @@
   "description": "This is a project for API-test",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": " jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/manishmitra13/api-test/issues"
   },
-  "homepage": "https://github.com/manishmitra13/api-test#readme"
+  "homepage": "https://github.com/manishmitra13/api-test#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.10",
+    "jest": "^26.4.0",
+    "node-fetch": "^2.6.0"
+  }
 }
