@@ -17,3 +17,4 @@ application/logs/*
 /vendor/
 
 node_modules
+*.html
